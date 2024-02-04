@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/http;//krjordan02.github.10/space-news/static/css/main.f0b3fc92.css",
-    "main.js": "/http;//krjordan02.github.10/space-news/static/js/main.90d23428.js",
-    "static/js/592.0dd31219.chunk.js": "/http;//krjordan02.github.10/space-news/static/js/592.0dd31219.chunk.js",
+    "main.js": "/http;//krjordan02.github.10/space-news/static/js/main.4d32ccbd.js",
+    "static/js/592.f5fe2788.chunk.js": "/http;//krjordan02.github.10/space-news/static/js/592.f5fe2788.chunk.js",
     "static/media/logo.svg": "/http;//krjordan02.github.10/space-news/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/http;//krjordan02.github.10/space-news/index.html",
     "main.f0b3fc92.css.map": "/http;//krjordan02.github.10/space-news/static/css/main.f0b3fc92.css.map",
-    "main.90d23428.js.map": "/http;//krjordan02.github.10/space-news/static/js/main.90d23428.js.map",
-    "592.0dd31219.chunk.js.map": "/http;//krjordan02.github.10/space-news/static/js/592.0dd31219.chunk.js.map"
+    "main.4d32ccbd.js.map": "/http;//krjordan02.github.10/space-news/static/js/main.4d32ccbd.js.map",
+    "592.f5fe2788.chunk.js.map": "/http;//krjordan02.github.10/space-news/static/js/592.f5fe2788.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0b3fc92.css",
-    "static/js/main.90d23428.js"
+    "static/js/main.4d32ccbd.js"
   ]
 }
